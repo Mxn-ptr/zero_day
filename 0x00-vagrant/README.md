@@ -1,1 +1,1 @@
-Linux
+This is the Vagrant project
